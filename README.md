@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @JohnWick30
 - 👀 I’m interested in C++, Java and C#.
-- 🌱 I’m currently learning Java.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning C.
 - 📫 How to reach me: wesley@fisherusa.org
 
 <!---
