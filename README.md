@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @JohnWick30
-- 👀 I’m interested in C++, python, and Linux. 
-- 🌱 I’m currently learning C.
+- 👋 Hi, I’m @wesbyte29
+- 👀 I’m interested in C, python, and Linux. 
 - 📫 How to reach me: wesley@fisherusa.org
 
 <!---
