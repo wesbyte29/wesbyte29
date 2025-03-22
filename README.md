@@ -10,7 +10,7 @@
 
 - 🧠 Passionate about low-level programming and system optimization
 - 🐧 Linux advocate and command line wizard
-- 🐍 Python developer by day, C tinkerer by night
+- 🐍 Python connoisseur by day, C tinkerer by night
 - 🔭 Currently working on: A scheduler simulation!
 - 🌱 Currently learning: OS concepts and SWE principles
 - ⚡ Fun fact: I love exploring and photography
