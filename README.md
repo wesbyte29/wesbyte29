@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" width="300">
   <br><br>
-  <p><b>C, Python & Linux Enthusiast | Problem Solver</b></p>
+  <p><b>CS Student | Problem Solver</b></p>
 </div>
 
 ## 💫 About Me
@@ -11,9 +11,9 @@
 - 🧠 Passionate about low-level programming and system optimization
 - 🐧 Linux advocate and command line wizard
 - 🐍 Python developer by day, C tinkerer by night
-- 🔭 Currently working on: _[your current project]_
-- 🌱 Currently learning: _[what you're learning]_
-- ⚡ Fun fact: _[something interesting about you]_
+- 🔭 Currently working on: A scheduler simulation!
+- 🌱 Currently learning: OS concepts and SWE principles
+- ⚡ Fun fact: I love exploring and photography
 
 ## 🛠️ Tech Stack
 
