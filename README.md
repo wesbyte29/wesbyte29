@@ -8,21 +8,12 @@
 
 ## 💫 About Me
 
-- 🧠 Passionate about low-level programming and system optimization
+- 🧠 Passionate about low-level programming and Linux
 - 🐧 Linux advocate and command line wizard
 - 🐍 Python connoisseur by day, C tinkerer by night
-- 🔭 Currently working on: A scheduler simulation!
+- 🔭 Currently working on: A driver simulation!
 - 🌱 Currently learning: OS concepts and SWE principles
 - ⚡ Fun fact: I love exploring and photography
-
-## 🛠️ Tech Stack
-
-```
-C            ███████████████████░░   85%
-Python       ████████████████████░   90%
-Linux        █████████████████████   100%
-[Add more]   ██████████░░░░░░░░░░░   40%
-```
 
 ## 📊 My GitHub Stats
 
@@ -32,7 +23,6 @@ Linux        █████████████████████   1
 
 - Email: wesley@fisherusa.org
 - [GitHub](https://github.com/wesbyte29)
-- [Add other social media/links]
 
 ---
 
