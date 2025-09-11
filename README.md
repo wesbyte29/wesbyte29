@@ -8,11 +8,8 @@
 
 ## 💫 About Me
 
-- 🧠 Passionate about low-level programming and Linux
-- 🐧 Linux advocate and command line wizard
-- 🐍 Python connoisseur by day, C tinkerer by night
-- 🔭 Currently working on: A driver simulation!
-- 🌱 Currently learning: OS concepts and SWE principles
+- 🔭 Currently working on: My senior capstone project
+- 🌱 Currently learning: Flutter, node, and PostgreSQL
 - ⚡ Fun fact: I love exploring and photography
 
 ## 📊 My GitHub Stats
