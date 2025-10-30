@@ -1,12 +1,6 @@
 # Hello World! I'm Wesley 👋
 
-<div align="center">
-  <img src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" width="300">
-  <br><br>
-  <p><b>CS Student | Problem Solver</b></p>
-</div>
-
-## 💫 About Me
+## About Me
 
 - 🔭 Currently working on: My senior capstone project
 - 🌱 Currently learning: Flutter, node, and PostgreSQL
@@ -19,7 +13,6 @@
 ## 📫 Connect With Me
 
 - Email: wesley@fisherusa.org
-- [GitHub](https://github.com/wesbyte29)
 
 ---
 
